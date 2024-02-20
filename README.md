@@ -1,0 +1,1 @@
+# immitation-model-of-stock
